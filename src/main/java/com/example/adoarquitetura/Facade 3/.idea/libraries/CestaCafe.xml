@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CestaCafe">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/CestaCafe/dist/CestaCafe.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
